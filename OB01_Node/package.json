@@ -1,0 +1,26 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Este es el primer proyecto de JavasCript con Node en Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar": "node hola-mundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgmontea98/OpenBootcam.git"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "Cristian Montealegre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgmontea98/OpenBootcam/issues"
+  },
+  "homepage": "https://github.com/cgmontea98/OpenBootcam#readme"
+}
